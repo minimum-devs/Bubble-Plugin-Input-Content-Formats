@@ -1,0 +1,16 @@
+{
+    "category": "plugins",
+    "display": "Format ➝ URL Slug",
+    "fields": {
+        "AAD": {
+            "caption": "Input ID",
+            "doc": "The HTML ID of the input you want to apply the content format to.",
+            "editor": "DynamicValue",
+            "name": "input_id",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "platform_type": "web",
+    "type": "client_side"
+}

@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "email",
+        "3": "data (things)",
+        "4": "artificial intelligence (AI)"
+    },
+    "data_tracked": false,
+    "demo_page": "https://input-content-formats.bubbleapps.io/version-test",
+    "description": "This plugin adds additional useful input content formats that you can use to restrict certain kinds of characters to be typed into inputs.\n\n🪶 Simple - zero configuration, straightforward usage\n\nThis plugin works without the use of an element plugin. Instead it's a simple set of actions that are immediately available upon installing.\n\nDemo can be found here 👉 https://input-content-formats.bubbleapps.io/version-test\n\nEditor can be found here 👉 https://bubble.io/page?id=input-content-formats",
+    "image": "//meta-q.cdn.bubble.io/f1733682520476x531457552605160400/Frame%20477%281%29.svg",
+    "license": "open_source",
+    "link": "https://forum.bubble.io/u/minimumstudio/summary",
+    "name": "Input Content Formats",
+    "plugin_instructions": "1. Install the plugin\n\n2. Find the input you want to format\n\n3. Go ahead and add an HTML ID to the input\n\n4. Run the correct 'Format ➝ X' action with the ID\n\nThat's it!"
+}
